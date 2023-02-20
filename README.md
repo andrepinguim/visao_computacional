@@ -20,3 +20,6 @@ Atualmente, temos acesso a diversos recursos computacionais, como a linguagem de
 - Exercício 03: Redimensionar a imagem para uma resolução de 200 X 200 pixels;
 - Exercício 04: Aplicar um filtro Gaussiano na imagem do exercício 03 e exibir o resultado;
 - Exercício 05: Aplicar uma limiarização na imagem do exercício 03 e exibir o resultado.
+
+### Link para o projeto no Google Colab:
+https://colab.research.google.com/drive/12-Xh_fWCUlrlvkn1h6fhHMsulIOl8xUx?usp=sharing
